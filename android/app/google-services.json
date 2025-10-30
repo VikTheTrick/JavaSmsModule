@@ -65,7 +65,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCwKyFOu84zwfk-zhYROdeRmYnmkogmDbg"
+          "current_key": ""
         }
       ],
       "services": {
@@ -94,7 +94,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCwKyFOu84zwfk-zhYROdeRmYnmkogmDbg"
+          "current_key": ""
         }
       ],
       "services": {
@@ -112,3 +112,4 @@
   "configuration_version": "1"
 
 }
+
